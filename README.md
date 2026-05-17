@@ -23,7 +23,7 @@ Pathfinderz Travel showcases beautiful travel destinations with a clean and user
 This project was created to practice front-end web development skills and improve understanding of responsive website design using HTML and CSS.
 
 🌐 Live Demo:
-
+https://umairaslam-cloud.github.io/Pathfinderz-Travel/
 
 👨‍💻 Author:
 Umair Aslam
